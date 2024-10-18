@@ -7,7 +7,7 @@ function App() {
     <>
       <div className='weather-containter'>
         <div className='app'>
-          <h3>Sanjay Weather App</h3>
+          <h3>Rohit Weather App</h3>
         </div>
         <div>
           <WeatherApp />
